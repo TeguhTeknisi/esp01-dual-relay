@@ -1,4 +1,7 @@
 # Introduction
+More info at:
+ https://tolgakurt.github.io/esp01-dual-relay/pcb/
+ https://TeguhTeknisi.github.io/esp01-dual-relay/pcb/
 
 This project is about a dual channel relay circuit driven by an ESP8266-01 IC which connects to Azure IoT Hub. The device can be controlled by a progressive web app which communicates with serverless Azure functions in the backend which then communicates with the IoT Hub. We developed and built the circuit, and implemented the code nearly from scratch.  
 
